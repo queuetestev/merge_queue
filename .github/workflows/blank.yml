@@ -24,6 +24,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     
+    
          
 
         
@@ -32,6 +33,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: exit 0
+        
+      - name: Run a one-line script
+        run: echo ${{ toJSON(github) }}
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
