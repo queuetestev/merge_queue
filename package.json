@@ -12,7 +12,7 @@
   },
   "author": "",
   "dependencies": {
-    "electron": "6.1.9"
+    "electron": "22.3.25"
   },
   "license": "ISC",
   "bugs": {
