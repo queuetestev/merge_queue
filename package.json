@@ -1,0 +1,22 @@
+{
+  "name": "merge_queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queuetestev/merge_queue.git"
+  },
+  "author": "",
+  "dependencies": {
+    "electron": "6.1.9"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/queuetestev/merge_queue/issues"
+  },
+  "homepage": "https://github.com/queuetestev/merge_queue#readme"
+}
